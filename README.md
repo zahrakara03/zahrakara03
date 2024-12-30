@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zahra
 - 👀 I’m interested in hunting, fishing, reading, and coding.
 - 🌱 I just recenly completed my 3rd year of studying IT.
-- 📫 How to reach me zahrakara082agmail.com
+- 📫 How to reach me zahrakara082@gmail.com
 - ⚡ Fun fact: Koalas also have fingerprints just like humans. Cows have bestfriends.
 
 <!---
